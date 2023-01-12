@@ -125,5 +125,7 @@ python test.py --dataroot ./datasets/facades/ --direction BtoA --model pix2pix -
 ## 3.11、参考
 
 - [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [https://www.bilibili.com/video/BV1LS4y1m7pr/](https://www.bilibili.com/video/BV1LS4y1m7pr/?vd_source=c739db1ebdd361d47af5a0b8497417db)
+- [https://www.bilibili.com/video/BV1CG4y117tH/](https://www.bilibili.com/video/BV1CG4y117tH/?vd_source=c739db1ebdd361d47af5a0b8497417db)
 
 
